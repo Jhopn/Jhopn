@@ -1,8 +1,14 @@
 # Welcome to my profile
+                                                       
 ~~~javascript
 Hello World! | User: Jhoão Pedro 
 ~~~
 
+</div>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jhopn&show_icons=true&count_private=true&hide_border=true&title_color=F57000&icon_color=DE4B0B&text_color=DE4B0B&bg_color=0d1117" alt="Jhoão Pedro github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhopn&layout=compact&hide_border=true&title_color=F57000&text_color=DE4B0B&bg_color=0d1117" />
 </div>
 
 ## Social Media
