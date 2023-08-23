@@ -37,4 +37,6 @@ target ="_blank"></a>
 
 </div>
 
+![Snake animation](https://github.com/Jhopn/Jhopn/blob/output/github-contribution-grid-snake.svg)
+
   
