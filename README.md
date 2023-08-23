@@ -37,6 +37,5 @@ target ="_blank"></a>
 
 </div>
 
-![snake gif](https://github.com/Jhopn/Jhopn/blob/output/github-contribution-grid-snake.svg)
 
   
