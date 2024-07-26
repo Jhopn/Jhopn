@@ -40,6 +40,7 @@ target ="_blank"></a>
   <a><img src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target ="_blank"></a>
 </div>
 
+<br>
 <div align="right">  
   <a>
     <img src="https://i.imgur.com/UABcsiS.png" align="right" width="300" />
