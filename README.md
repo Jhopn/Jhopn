@@ -35,7 +35,6 @@ Bem Vindo! | User: Jhoão Pedro
   <a><img src= "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target ="_blank"></a>
   <a><img src = "https://img.shields.io/badge/GIMP-5C5543.svg?style=for-the-badge&logo=GIMP&logoColor=white" 
 target ="_blank"></a>
-  
   <a><img src = "https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" target ="_blank"></a>
   <a><img src = "https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white" target ="_blank"></a>
   <a><img src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target ="_blank"></a>
