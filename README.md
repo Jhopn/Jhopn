@@ -32,6 +32,7 @@ Bem Vindo! | User: Jhoão Pedro
 <div align="left">
   <a><img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target ="_blank"></a>
   <a><img src = "https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" target ="_blank"></a>
+  <a><img src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" target ="_blank"></a>
   <a><img src= "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target ="_blank"></a>
   <a><img src = "https://img.shields.io/badge/GIMP-5C5543.svg?style=for-the-badge&logo=GIMP&logoColor=white" 
 target ="_blank"></a>
@@ -41,9 +42,10 @@ target ="_blank"></a>
 </div>
 
 <br>
+
 <div align="right">  
   <a>
-    <img src="https://i.imgur.com/UABcsiS.png" align="right" width="300" />
+    <img src="https://i.imgur.com/UABcsiS.png" align="right" width="290" />
   </a>
 </div>
 
