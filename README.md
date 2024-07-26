@@ -11,7 +11,7 @@ Bem Vindo! | User: Jhoão Pedro
 <div align="left">
     <div align="center">  
       <a href="#dereknguyen269-title">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhopn&layout=donut&title_color=FFA800&icon_color=AD7200&text_color=FFA800&bg_color=000000" alt="Jhopn"               align="right" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhopn&layout=donut&border_color=000000&title_color=FFA800&icon_color=AD7200&text_color=FFA800&bg_color=000000" alt="Jhopn"               align="right" />
       </a>
     </div>
 
