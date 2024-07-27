@@ -27,6 +27,8 @@ Bem Vindo! | User: Jhoão Pedro
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jhoao_ns/) 
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jho%C3%A3o-santos-b0b633284/) 
   <br>
+  <br>
+  
 
 ### Tools
 <div align="left">
@@ -47,15 +49,13 @@ Bem Vindo! | User: Jhoão Pedro
   </a>
 </div>
 
-### Languages
+### Languages e Frameworks
 <div align="left">
   
   [![My Skills](https://skillicons.dev/icons?i=js,py,ts,java)](https://skillicons.dev)
   <br>
-  ### Frontend
   [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,materialui)](https://skillicons.dev)
   <br>
-  ### Backend
   [![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,spring,jwt)](https://skillicons.dev)
 
 </div>
