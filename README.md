@@ -45,7 +45,7 @@ Bem Vindo! | User: Jhoão Pedro
 
 <div align="right">  
   <a>
-    <img src="https://i.imgur.com/UABcsiS.png" align="right" width="200" />
+    <img src="https://i.imgur.com/5dDVZZD.png" align="right" width="200" />
   </a>
 </div>
 
