@@ -56,7 +56,7 @@ Bem Vindo! | User: Jhoão Pedro
   <br>
   [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,materialui)](https://skillicons.dev)
   <br>
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,spring,jwt)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,adonis,nest,prisma,spring,jwt)](https://skillicons.dev)
 
 </div>
 <br>
