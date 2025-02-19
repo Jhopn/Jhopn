@@ -49,14 +49,17 @@ Bem Vindo! | User: Jhoão Pedro
   </a>
 </div>
 
-### Languages e Frameworks
+### Languages and Frameworks
 <div align="left">
   
   [![My Skills](https://skillicons.dev/icons?i=js,py,ts,java)](https://skillicons.dev)
   <br>
-  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,materialui)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,materialui,nextjs,tailwind)](https://skillicons.dev)
   <br>
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,adonis,nest,prisma,spring,jwt)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,adonis,nest,prisma,spring,flask)](https://skillicons.dev)
+  <br>
+  [![My Skills](https://skillicons.dev/icons?i=nginx)](https://skillicons.dev)
+
 
 </div>
 <br>
